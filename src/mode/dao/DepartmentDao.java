@@ -1,4 +1,4 @@
-package mode.doa;
+package mode.dao;
 
 import java.util.List;
 

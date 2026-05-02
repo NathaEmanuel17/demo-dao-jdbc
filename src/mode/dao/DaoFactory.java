@@ -1,4 +1,4 @@
-package mode.doa;
+package mode.dao;
 
 import db.DB;
 import model.dao.impl.SellerDaoJDBC;
